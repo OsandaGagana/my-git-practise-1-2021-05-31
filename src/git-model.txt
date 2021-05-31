@@ -6,3 +6,6 @@ Wow! It's awesome
 
 Now I'm going to do new exercise.
 Let's hope it'll OK
+
+
+Before I did some wrong in the code. I had to change the code.
