@@ -9,3 +9,8 @@ Let's hope it'll OK
 
 I think I did wrong in the text 
 I 'm going to fix it
+
+Before I did some wrong in the code. I had to change the code.
+
+
+Nice ! It was alright!
