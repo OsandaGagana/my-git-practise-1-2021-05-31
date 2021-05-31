@@ -1,0 +1,5 @@
+Hello! I'm using Git
+
+it's a very wonderful tool. It makes worke easier.
+
+It's modified.
